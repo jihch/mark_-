@@ -1,3 +1,10 @@
+pwd
+Print Working Directory
+
+mkdir
+make directory
+
+
 # mark_-
 预备打印 ipad 壳 或者 马克杯的实用命令
 
